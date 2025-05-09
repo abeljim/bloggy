@@ -14,6 +14,8 @@
     pkgs.pkg-config
     pkgs.libyaml.dev
     pkgs.openssl.dev
+
+    # For neovim
     pkgs.rubyPackages.solargraph
   ];
 
